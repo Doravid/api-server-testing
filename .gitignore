@@ -1,0 +1,4 @@
+zig/.zig-cache/
+zig/zig-out/
+zig/zig-pkg/
+zig/*.o
